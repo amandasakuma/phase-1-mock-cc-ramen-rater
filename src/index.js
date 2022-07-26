@@ -41,7 +41,6 @@ document.addEventListener('DOMContentLoaded', () => {
             let img = document.createElement('img')
             let p = document.createElement('p')
 
-
         })
         ramenMenu.append(newRamen)
     }
